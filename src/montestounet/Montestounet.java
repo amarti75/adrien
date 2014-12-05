@@ -17,6 +17,7 @@ public class Montestounet {
     static int i = 0;
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("PROUT AHAHAH xD");
         Lapin lap = new Lapin("Lola", 4);
         while(i <= 10){
             lap.lapinCretin();
